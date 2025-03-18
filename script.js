@@ -1,1 +1,1 @@
-var initialCheck = false;
+var initialCheck = true;
